@@ -15,17 +15,6 @@ Leaderboard system using local storage
 
 Responsive and clean user interface
 
-📂 Project Structure
-graphql
-Copy
-Edit
-📦 Quiz Master
-├── app.js         # Main JavaScript logic (quiz flow, timer, score, screens)
-├── questions.js   # Question bank organized by category and difficulty
-├── style.css      # Styling and layout
-├── index.html     # (You need this!) Main HTML file to run the app
-📋 How to Use
-
 🛠 Built With
 HTML5 — markup
 
